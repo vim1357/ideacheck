@@ -5,8 +5,11 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Product Idea Validator</title>
-      </Head>
+  <title>IdeaCheck — Быстрая проверка стартап-идей</title>
+  <meta name="description" content="Проверь свою стартап-идею с помощью AI — анализ рынка, конкуренции и рисков за 1 минуту." />
+  <link rel="icon" href="/favicon.ico" />
+</Head>
+
      <main className="min-h-screen bg-white">
 
   {/* Hero */}
